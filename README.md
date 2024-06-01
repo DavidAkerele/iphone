@@ -48,14 +48,16 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```sh
    git clone https://github.com/DavidAkerele/iphone-website-clone.git
 2. Navigate to the project directory
+   ```
+   cd iphone-website-clone
 
-cd iphone-website-clone
 3. Install dependencies
-
-npm install
+   ```
+    npm install
 or
 
-yarn install
+  yarn install
+
 Running the Project
 1. Start the development server
 
